@@ -1,0 +1,10 @@
+print(2*6)
+print(2.0*6)
+print(2.3*6.93)
+print(2**2)
+print(3**2)#
+print(3**3)
+print(10%2)
+print(10%3)
+print('hello'*3)
+print('hello'+'world')
