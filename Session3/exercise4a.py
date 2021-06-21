@@ -6,3 +6,5 @@ while counter <= 100:
     counter = counter + 1
 
 print(f'The sum of all the numbers between 1 and 100 is {total_sum}')
+
+
