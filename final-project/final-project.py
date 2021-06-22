@@ -1,3 +1,6 @@
+#Ask the player name and store
+player_name = input('What is your name?')
+
 #This is a list made up of questions and answers dictionaries 
 questions = [
         {"question": "What is the capital of Germany? ", 
@@ -25,4 +28,4 @@ for question in questions:
     print(f"Your score was {score}")
 
 #Print the final score
-print(f"Your final score was {score}")
+print(f"{player_name} Your final score was {score} out of 5")
